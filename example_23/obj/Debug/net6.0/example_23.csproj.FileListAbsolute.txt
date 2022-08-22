@@ -1,0 +1,15 @@
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\bin\Debug\net6.0\example_23.exe
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\bin\Debug\net6.0\example_23.deps.json
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\bin\Debug\net6.0\example_23.runtimeconfig.json
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\bin\Debug\net6.0\example_23.dll
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\bin\Debug\net6.0\example_23.pdb
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\obj\Debug\net6.0\example_23.csproj.AssemblyReference.cache
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\obj\Debug\net6.0\example_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\obj\Debug\net6.0\example_23.AssemblyInfoInputs.cache
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\obj\Debug\net6.0\example_23.AssemblyInfo.cs
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\obj\Debug\net6.0\example_23.csproj.CoreCompileInputs.cache
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\obj\Debug\net6.0\example_23.dll
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\obj\Debug\net6.0\refint\example_23.dll
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\obj\Debug\net6.0\example_23.pdb
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\obj\Debug\net6.0\example_23.genruntimeconfig.cache
+C:\Users\Слава\Desktop\GeekBrains Tester\HW for third seminar\Examples\example_23\obj\Debug\net6.0\ref\example_23.dll
